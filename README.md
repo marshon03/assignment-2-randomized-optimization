@@ -1,1 +1,1 @@
-# assignment-2-randomized-optimization
+# Assignment-2: Randomized Optimization
