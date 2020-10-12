@@ -11,7 +11,6 @@ destination = 'Add destination path'
 
 
 def plot_problem_size_scores(problem_dataframe, problem_name, output_dir=destination):
-    # We have a line for each of the algorithms. Use seaborn to draw them super easily.
     if 'Unnamed: 0' in problem_dataframe.keys():
         problem_dataframe.pop('Unnamed: 0')
 
